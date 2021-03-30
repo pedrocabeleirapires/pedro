@@ -1,0 +1,36 @@
+{
+    "Clientes": [
+        {
+            "id": 10,
+            "opcao": "Novo",
+            "clicks": 13
+        },
+        {
+            "id": 11,
+            "opcao": "Adicionar",
+            "clicks": 14
+        },
+        {
+            "id": 12,
+            "opcao": "Apagar",
+            "clicks": 3
+        },
+        {
+            "id": 13,
+            "opcao": "Opcao 4",
+            "clicks": 4
+        }
+    ],
+    "Artigos": [
+        {
+            "id": 20,
+            "opcao": "Comprar",
+            "clicks": 10
+        },
+        {
+            "id": 21,
+            "opcao": "Vender",
+            "clicks": 3
+        }
+    ]
+}
